@@ -1,0 +1,23 @@
+Configuration n=1, m=3: Macro F1=0.1082, Micro F1=0.1035, Macro Precision=0.0657, Macro Recall=0.3090
+Configuration n=1, m=4: Macro F1=0.1075, Micro F1=0.1026, Macro Precision=0.0651, Macro Recall=0.3054
+Configuration n=1, m=5: Macro F1=0.1079, Micro F1=0.1022, Macro Precision=0.0648, Macro Recall=0.3018
+
+Configuration n=2, m=3: Macro F1=0.1091, Micro F1=0.1042, Macro Precision=0.0661, Macro Recall=0.3064
+Configuration n=2, m=4: Macro F1=0.1103, Micro F1=0.1049, Macro Precision=0.0666, Macro Recall=0.3057
+Configuration n=2, m=5: Macro F1=0.1104, Micro F1=0.1047, Macro Precision=0.0664, Macro Recall=0.3044
+
+Configuration n=3, m=3: Macro F1=0.1087, Micro F1=0.1047, Macro Precision=0.0664, Macro Recall=0.3069
+Configuration n=3, m=4: Macro F1=0.1099, Micro F1=0.1052, Macro Precision=0.0667, Macro Recall=0.3075
+Configuration n=3, m=5: Macro F1=0.1100, Micro F1=0.1050, Macro Precision=0.0666, Macro Recall=0.3055
+
+Configuration n=4, m=3: Macro F1=0.1083, Micro F1=0.1045, Macro Precision=0.0663, Macro Recall=0.3088
+Configuration n=4, m=4: Macro F1=0.1093, Micro F1=0.1054, Macro Precision=0.0669, Macro Recall=0.3071
+Configuration n=4, m=5: Macro F1=0.1109, Micro F1=0.1062, Macro Precision=0.0674, Macro Recall=0.3095
+
+Configuration n=5, m=3: Macro F1=0.1089, Micro F1=0.1053, Macro Precision=0.0668, Macro Recall=0.3103
+Configuration n=5, m=4: Macro F1=0.1093, Micro F1=0.1056, Macro Precision=0.0670, Macro Recall=0.3083
+Configuration n=5, m=5: Macro F1=0.1109, Micro F1=0.1060, Macro Precision=0.0673, Macro Recall=0.3068
+
+
+Best configuration:
+n=4, m=5 with Macro F1=0.1109
