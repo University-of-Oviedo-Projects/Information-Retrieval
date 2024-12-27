@@ -1,6 +1,6 @@
 import bm25s, Stemmer
-from Exercise1 import parse_nf_corpus, load_index
-from Exercise2 import load_queries, load_relevance_judgements, calculate_metrics, save_results, retrieve_documents
+from Scripts.Indexing import parse_nf_corpus, load_index
+from Scripts.BM25 import load_queries, load_relevance_judgements, calculate_metrics, save_results, retrieve_documents
 from Exercise3 import compute_term_frequencies_from_corpus_tokenized, expand_query_with_llr
 from Exercise5 import connectToDB
 

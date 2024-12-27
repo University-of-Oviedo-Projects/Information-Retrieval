@@ -1,7 +1,7 @@
 import chromadb, gdown
 from chromadb.utils import embedding_functions
 from sentence_transformers import SentenceTransformer, os
-from Exercise2 import load_queries, load_relevance_judgements, calculate_metrics, save_results
+from Scripts.BM25 import load_queries, load_relevance_judgements, calculate_metrics, save_results
 
 '''
 This script cretes a collection in ChromaDB using the SentenceTransformer model 

@@ -1,5 +1,5 @@
 import bm25s, Stemmer, json, os
-from Exercise1 import parse_nf_corpus, index_corpus, load_index
+from Scripts.Indexing import parse_nf_corpus, index_corpus, load_index
 
 '''
 This script runs the BM25 algorithm for the TREC-COVID dataset.

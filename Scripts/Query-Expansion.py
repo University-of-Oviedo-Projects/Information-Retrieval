@@ -1,7 +1,7 @@
 import Stemmer, bm25s
-from Exercise1 import parse_nf_corpus, load_index
+from Scripts.Indexing import parse_nf_corpus, load_index
 
-from Exercise2 import (
+from Scripts.BM25 import (
     load_queries,  
     load_relevance_judgements, 
     retrieve_documents,
