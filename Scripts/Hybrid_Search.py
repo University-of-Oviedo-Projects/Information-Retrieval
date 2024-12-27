@@ -1,8 +1,8 @@
 import bm25s, Stemmer
 from Scripts.Indexing import parse_nf_corpus, load_index
 from Scripts.BM25 import load_queries, load_relevance_judgements, calculate_metrics, save_results, retrieve_documents
-from Exercise3 import compute_term_frequencies_from_corpus_tokenized, expand_query_with_llr
-from Exercise5 import connectToDB
+from Scripts.LLR import compute_term_frequencies_from_corpus_tokenized, expand_query_with_llr
+from Scripts.Semantic_Search import connectToDB
 
 '''
 In this script we will mix the results from the lexical and semantic search engines.

@@ -9,7 +9,7 @@ from Scripts.BM25 import (
     save_results
 )
 
-from Exercise3 import (
+from Scripts.LLR import (
     compute_term_frequencies_from_corpus_tokenized, 
     expand_query_with_llr
 )
