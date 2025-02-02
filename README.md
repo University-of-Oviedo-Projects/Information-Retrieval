@@ -23,3 +23,9 @@ This project focuses on implementing and evaluating various information retrieva
     git clone https://github.com/your-username/Information-Retrieval.git
     cd Information-Retrieval
     ```
+
+## Disclaimer
+
+This was a project developed for the Information Repositories course of the University of Oviedo.
+
+Mark obtained: 9.8 points over 10 possible points.
